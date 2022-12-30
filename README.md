@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 I am a Sophomore at Thiagarajar College of Engineering<br>🏆 SIH Finalist 2022<br>🧑‍💻 I love using Software as a solution for every Problem<br>💻 I am a competitive programmer mainly at LeetCode<br>🧑‍🎓 I’m currently learning: Computer Science an Business Systems<br>🤔 I’m currently open for: An Intern or a new job opportunity<br>🤓 Always learning new things
+🏫 I am a Sophomore at Thiagarajar College of Engineering<br>🏆 SIH Finalist 2022<br>🧑‍💻 I love using Software as a solution for every Problem<br>💻 I am a competitive programmer mainly at LeetCode<br>🧑‍🎓 I’m currently learning: Computer Science and Business Systems<br>🤔 I’m currently open for: An Intern or a new job opportunity<br>🤓 Always learning new things
 
 
 ## 🌐 Socials:
@@ -18,4 +18,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=kmrsanthosh&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

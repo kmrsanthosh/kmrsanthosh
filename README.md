@@ -20,7 +20,6 @@
 <p align="center">
     <a href="https://github.com/kmrsanthosh"><img src="https://github-profile-trophy.vercel.app/?username=kmrsanthosh&theme=radical&no-frame=false&no-bg=false&margin-w=4"></a>
 </p>
----
 <p align="center">
     <a href="https://github.com/kmrsanthosh"><img src="https://visitcount.itsvg.in/api?id=kmrsanthosh&icon=0&color=6"></a>
 </p>
